@@ -11,7 +11,7 @@ tennessee = []
 washington = []
 
 # Path to csv
-file_path = Path(r"C:\Users\matthew.bonaski\projects\personal\Github\python-test-repo-graph\state_stats.csv")
+file_path = Path(r"/cwd")
 
 # Open State Population csv and gather population data from years
 with file_path.open('r', encoding='utf-8', newline='') as csv_file:

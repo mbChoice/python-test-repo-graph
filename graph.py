@@ -35,7 +35,7 @@ plt.plot(years, arizona, label='Arizona', color='blue')
 plt.plot(years, indiana, label='Indiana', color='gold')
 plt.plot(years, massachusetts, label='Massachusetts', color='green')
 plt.plot(years, tennessee, label='Tennessee', color='orange')
-plt.plot(years, washington, label='Washington', color='purple')
+plt.plot(years, washington, label='Maine', color='purple')
 
 # Add a title and x, y labels
 plt.title('Population from 1910 to 2020')
